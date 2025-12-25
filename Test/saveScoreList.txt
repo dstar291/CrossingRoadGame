@@ -1,0 +1,11 @@
+10
+2100,Tien
+2000,Tien
+1900,Tien
+1200,asdas
+700,DEMO
+600,DEMO
+500,asda
+500,sadas
+400,SAVEGAME
+300,sdsad
